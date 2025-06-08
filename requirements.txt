@@ -1,0 +1,12 @@
+psutil==7.0.0
+requests==2.32.3
+folium==0.19.7
+geopy==2.4.1
+scapy==2.6.1
+numpy==2.2.6
+scipy==1.15.3
+wifi==0.3.8
+netifaces
+pyusb
+PyQt5==5.15.9
+PyQtWebEngine==5.15.9
